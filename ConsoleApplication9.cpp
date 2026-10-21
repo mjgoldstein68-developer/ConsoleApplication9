@@ -45,6 +45,10 @@ int main() {
 		cout << "7. Exit" << endl;;
 		cout << string(10, '_') << endl;
 		cin >> menuChoice;
+    
+
+
+
 
 		switch (menuChoice) {
 		case 1: cout << "Addition" << endl;
